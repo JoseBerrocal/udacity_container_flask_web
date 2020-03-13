@@ -1,3 +1,3 @@
-# udacity_container_hello
-This repositore will help to create a container and also test circleci
-# udacity_container_hello
+# udacity_container_flask_web
+This will be an example of how to deploy a container with flask
+# udacity_container_flask_web
