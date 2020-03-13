@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.udacity_container_hello
+	python3 -m venv ~/.udacity_container_flask_web
 
 install:
 	pip install --upgrade pip &&\
